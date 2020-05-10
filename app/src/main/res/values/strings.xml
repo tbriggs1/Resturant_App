@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ResturantRating</string>
+
+    <string-array name="options">
+
+        <item> Select Option</item>
+        <item> Search Nearby</item>
+        <item> Name </item>
+        <item> Postcode </item>
+        <item> Recently added </item>
+    </string-array>
+
+    <string name="access_token"> pk.eyJ1IjoidG9tYnJpZ2dzMTk5MyIsImEiOiJjanRpam5wdjgwbHR5NDRxemlncWJrYjM2In0.Mjokm2T65AV1O0MZSZuGfA </string>
+</resources>
